@@ -1,0 +1,10 @@
+[project]
+name = "bs-ml-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "easyocr>=1.7.2",
+    "opencv-python>=4.10.0.84",
+]
