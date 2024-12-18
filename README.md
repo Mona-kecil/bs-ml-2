@@ -18,13 +18,8 @@ For demonstration purposes, the system uses two preconfigured license plate imag
 
 ## Installation
 
-### Using `uv`
-If you are using `uv` as your package manager:
-```bash
-uv install
-```
-
-### Using `pip`
+### Create `venv`
+### Install dependency
 ```bash
 pip install -r requirements.txt
 ```
